@@ -1,0 +1,9 @@
+{
+  "client_id": "https://amberchalia.github.io/cimd-test/client-metadata.json",
+  "client_name": "Bugcrowd Research Client 18",
+  "redirect_uris": ["https://staging.gearset.com/callback", "https://gist.github.com/amberchalia"],
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "scope": "openid mcp offline_access"
+}
